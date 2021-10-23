@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCoreMongoDBSolide", "netCoreMongoDBSolide\netCoreMongoDBSolide.csproj", "{379DAE76-16A7-4814-B159-F3B3A5F3B156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Presistence", "Test.prensisten\Test.Presistence.csproj", "{882E5A75-2B4B-42D5-90E1-CC48F85F809E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Domain", "Test.Domain\Test.Domain.csproj", "{5198973A-FF94-4415-9257-6B9698F2124F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379DAE76-16A7-4814-B159-F3B3A5F3B156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379DAE76-16A7-4814-B159-F3B3A5F3B156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379DAE76-16A7-4814-B159-F3B3A5F3B156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379DAE76-16A7-4814-B159-F3B3A5F3B156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882E5A75-2B4B-42D5-90E1-CC48F85F809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882E5A75-2B4B-42D5-90E1-CC48F85F809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882E5A75-2B4B-42D5-90E1-CC48F85F809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882E5A75-2B4B-42D5-90E1-CC48F85F809E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5198973A-FF94-4415-9257-6B9698F2124F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5198973A-FF94-4415-9257-6B9698F2124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5198973A-FF94-4415-9257-6B9698F2124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5198973A-FF94-4415-9257-6B9698F2124F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC589AB4-1470-44BB-A78D-4114F6DF8267}
+	EndGlobalSection
+EndGlobal
